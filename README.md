@@ -1,6 +1,6 @@
-[HELPING EMPLOYEES/INDIVIDUALS THROUGH OS TICKET PROBLEM SOLVING]
+[HELPING EMPLOYEES/INDIVIDUALS THROUGH OS TICKETS SYSTEMS]
 
-Using the softwar oSTicket, i setup a ticket submission system where companies, specified down to - departments, teams, employees, and even managers can submit a ticket to the tech team when they have an issue with their hardware or other IT related problems.
+Using the softwar oSTicket, I setup a ticket submission system where companies, specified down to - departments, teams, employees, and even managers can submit a ticket to the tech team when they have an issue with their hardware or other IT related problems.
 Me as a memebr of the Tech team can Track, manage, reply to these tickets , to start the process of fixing specific issues. to then completing & closing out these tickets.
 
 ![1 jpg](https://github.com/user-attachments/assets/a700c90f-f34e-45fc-9738-f758cc21ef92)
